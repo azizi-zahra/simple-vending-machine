@@ -19,7 +19,7 @@ This is a _digital logic design_ project, for Spring 2024.
 - **Inventory Management:** Tracks the quantity of items in stock.
 - **Transaction Handling:** Manages user inputs for selecting items and handling payments.
 - **Error Handling:** Provides feedback for out-of-stock items or invalid inputs.
-- 
+ 
 _you can read more details [here](https://github.com/ZahraAziziGit/simple-vending-machine/blob/main/Report%20(en).pdf)_.
 
 ## Installation
