@@ -1,6 +1,6 @@
 `timescale 1s/1ms
 
-`include "Azizi.Zahra.402243083.VendingMachine.v"
+`include "vending_machine.v"
 
 module vending_machine_tb();
 
