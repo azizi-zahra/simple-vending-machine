@@ -10,7 +10,6 @@ This is a _digital logic design_ project, for Spring 2024.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -82,31 +81,9 @@ simple-vending-machine/
 ├── LICENSE.txt
 ├── README.md
 ├── Report (en).pdf
-├── test_vm.vcd
 ├── vending_machine.v
-├── vending_machine_tb.v
-└── vending_machine_wave
-
+└──vending_machine_tb.v
 ```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. **Fork the repository.**
-2. **Create a new branch:**
-    ```sh
-    git checkout -b <feature-name>
-    ```
-3. **Make your changes and commit them:**
-    ```sh
-    git commit -m 'feat: add some feature'
-    ```
-4. **Push to the branch:**
-    ```sh
-    git push origin <feature-name>
-    ```
-5. **Open a pull request.**
 
 ## License
 This project is licensed under the [MIT](https://github.com/ZahraAziziGit/simple-vending-machine?tab=MIT-1-ov-file#) License.
@@ -114,6 +91,3 @@ This project is licensed under the [MIT](https://github.com/ZahraAziziGit/simple
 ##
 
 Thank you for checking out the Simple Vending Machine project! If you have any questions or feedback, feel free to reach out.
-
-[Telegram](https://t.me/zahraAziziT)
-E-mail: azizi.zahra.tehran@gmail.com
